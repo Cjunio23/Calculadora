@@ -1,1 +1,2 @@
 # Calculadora
+Este código define funções para cada operação matemática básica: adição, subtração, multiplicação, divisão, potência de um número e calcular a raiz quadrada de um número,respectivamente. Em seguida, a função calculadora() exibe um menu para o usuário escolher a operação desejada e solicita os números de entrada. Dependendo da operação escolhida, ele chama a função apropriada e imprime o resultado.
